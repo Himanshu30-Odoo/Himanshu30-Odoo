@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Himanshu Nai
 
-💼 Currently working as an **Odoo 17 Developer Intern** at **Devintelle Solutions**  
+💼 Currently working as an **Odoo 17,18 Developer Intern** at **Devintelle Solutions**  
 🎓 Pursuing **B.Voc IT** (2025 Batch) from **Silver Oak University**  
 ⚙️ Skills: **Odoo**, **Python**, **XML**, **PostgreSQL**, **Git**
 
