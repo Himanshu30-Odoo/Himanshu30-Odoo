@@ -17,7 +17,7 @@
 ## 📫 Connect with Me
 - ✉️ Email: **himanshunai2005@gmail.com**
 - 📞 Phone: **+91 9724060244**
-- 🌐 LinkedIn: [linkedin.com/in/naihimanshu](https://www.linkedin.com/in/naihimanshu) _(optional)_
+- 🌐 LinkedIn: [https://www.linkedin.com/in/himanshu-nai-a59486259/]
 
 ---
 
